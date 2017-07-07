@@ -126,6 +126,26 @@ namespace TTSDemo1
                     }
                 }
 
+                if (isAdd){
+
+                    foreach (XmlNode xn in xnList){
+
+                        string amtiet = xn["amtiet"].InnerText;
+                        string ngucanhtrai = xn["ngucanhtrai"].InnerText;
+                        string ngucanhphai = xn["ngucanhphai"].InnerText;
+                        if (ds[i].ToUpper().Equals(amtiet)){
+
+                            string tenfile = xn["tenfile"].InnerText;
+                            string vitribatdau = xn["vitribatdau"].InnerText;
+                            string vitriketthuc = xn["vitriketthuc"].InnerText;
+                            Word word = new Word(tenfile, amtiet, vitribatdau, vitriketthuc, ngucanhtrai, ngucanhphai);
+                            arr.Add(word);
+                            isAdd = false;
+                            break;
+                        }
+                    }
+                }
+
                 if (isAdd) {
                     Word word = new Word("NULL", "NULL", "NULL", "NULL", "NULL", "NULL");
                     arr.Add(word);
