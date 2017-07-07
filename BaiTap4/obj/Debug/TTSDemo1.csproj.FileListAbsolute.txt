@@ -1,0 +1,10 @@
+C:\Users\VIP\Desktop\TTSDemo1\TTSDemo1\bin\Debug\TTSDemo1.exe.config
+C:\Users\VIP\Desktop\TTSDemo1\TTSDemo1\bin\Debug\TTSDemo1.exe
+C:\Users\VIP\Desktop\TTSDemo1\TTSDemo1\bin\Debug\TTSDemo1.pdb
+C:\Users\VIP\Desktop\TTSDemo1\TTSDemo1\bin\Debug\NAudio.dll
+C:\Users\VIP\Desktop\TTSDemo1\TTSDemo1\bin\Debug\NAudio.xml
+C:\Users\VIP\Desktop\TTSDemo1\TTSDemo1\obj\Debug\TTSDemo1.Form1.resources
+C:\Users\VIP\Desktop\TTSDemo1\TTSDemo1\obj\Debug\TTSDemo1.Properties.Resources.resources
+C:\Users\VIP\Desktop\TTSDemo1\TTSDemo1\obj\Debug\TTSDemo1.csproj.GenerateResource.Cache
+C:\Users\VIP\Desktop\TTSDemo1\TTSDemo1\obj\Debug\TTSDemo1.exe
+C:\Users\VIP\Desktop\TTSDemo1\TTSDemo1\obj\Debug\TTSDemo1.pdb

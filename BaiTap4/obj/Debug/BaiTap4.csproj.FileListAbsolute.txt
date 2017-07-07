@@ -1,0 +1,3 @@
+C:\Users\VIP\Desktop\BaiTap4\TTSDemo1\bin\Debug\TTSDemo1.exe.config
+C:\Users\VIP\Desktop\BaiTap4\TTSDemo1\obj\Debug\TTSDemo1.exe
+C:\Users\VIP\Desktop\BaiTap4\TTSDemo1\obj\Debug\TTSDemo1.pdb
